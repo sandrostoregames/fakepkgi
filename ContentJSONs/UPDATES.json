@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/update.pkg": {
+      "title_id": "CUSA19997",
+      "region": "USA",
+      "name": "Update",
+      "version": "6.03",
+      "release": "06-29-2010",
+      "size": 38524460613,
+      "min_fw": "2.45",
+      "cover_url": null
+    }
+  }
+}

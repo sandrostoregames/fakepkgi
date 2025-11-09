@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/ps2-classic.pkg": {
+      "title_id": "CUSA43606",
+      "region": "USA",
+      "name": "PlayStation 2 Classic",
+      "version": "6.52",
+      "release": "03-26-2045",
+      "size": 7311010415,
+      "min_fw": "2.26",
+      "cover_url": null
+    }
+  }
+}

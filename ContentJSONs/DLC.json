@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/dlc.pkg": {
+      "title_id": "CUSA25346",
+      "region": "JAP",
+      "name": "DLC",
+      "version": "5.06",
+      "release": "02-07-2048",
+      "size": 12460782879,
+      "min_fw": "9.83",
+      "cover_url": null
+    }
+  }
+}

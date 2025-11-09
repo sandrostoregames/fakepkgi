@@ -1,0 +1,43 @@
+{
+  "FILTERING": {
+    "CONTENT": "games",
+    "SORT": {
+      "type": "name",
+      "ascending": true
+    },
+    "REGIONS": [
+      "Asia",
+      "Europe",
+      "Japan",
+      "USA"
+    ]
+  },
+  "PREFERENCES": {
+    "DOWNLOADS": {
+      "directDownload": false,
+      "downloadPath": "/user/data/pkg/",
+      "installAfter": true,
+      "deleteAfter": true,
+      "deleteOnCancel": true
+    },
+    "APPLICATION": {
+      "background_uri": null,
+      "backgroundMusic": false,
+      "populateViaWeb": true,
+      "enableUpdates": true
+    },
+    "CONTENT_URLS": {
+      "PS1": null,
+      "PS2": null,
+      "PSP": null,
+      "games": null,
+      "apps": null,
+      "updates": null,
+      "DLC": null,
+      "demos": null,
+      "homebrew": null,
+      "emulators": null,
+      "themes": null
+    }
+  }
+}
