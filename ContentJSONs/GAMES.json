@@ -11,7 +11,7 @@
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Running-Fox-PS4-PKG.webp"
     },	
-    "https://east-us-upload.vikingfile.com/Cjp5AkQYmC/BOMA%20PS4-%20SETEMBRO%202025.pkg": {
+    "https://east-us-upload.vikingfile.com/Cjp5AkQYmC/BOMA%20PS4-%20SETEMBRO%202025.pkg": { 
       "title_id": "SLPM66374",
       "region": "USA",
       "name": "BOMBAPACTH SETEMBRO 2025 GD",
@@ -31,6 +31,16 @@
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
     },
+    "https://east-us-upload.vikingfile.com/mssOy3tMxp/The%20Wonderful%20101%20Remastered%20CUSA18780%20PS4.pkg": {
+      "title_id": "CUSA18780",
+      "region": "USA",
+      "name": "The Wonderful 101 Remastered GAME",
+      "version": "1.12",
+      "release": "23-08-2013",
+      "size": 11234967552,
+      "min_fw": "6.72",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
+    },		  
     "https://east-us-upload.vikingfile.com/gNESxejoE3/The%20Wonderful%20101%20Remastered%20UP%20v1.12%20CUSA18780%20PS4.pkg": {
       "title_id": "CUSA18780",
       "region": "USA",
