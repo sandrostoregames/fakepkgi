@@ -1,8 +1,9 @@
 {"originalFileSize":3587506176,"numberOfSplitFiles":2,
-"pieces":[{"url":"https://ps4servicedrive.sandrostoreps3.workers.dev/game/download/teste/RESIDENT4-SLES53702-A0100-V0100_0.pkg",
+"pieces":[{"url":"https://github.com/sandrostoregames/fakepkgi/releases/download/teste/RESIDENT4-SLES53702-A0100-V0100_0.pkg",
 "fileOffset":0,"fileSize":2000000000},
-{"url":"https://ps4servicedrive.sandrostoreps3.workers.dev/game/download/teste/RESIDENT4-SLES53702-A0100-V0100_1.pkg",
+{"url":"https://github.com/sandrostoregames/fakepkgi/releases/download/teste/RESIDENT4-SLES53702-A0100-V0100_1.pkg",
 "fileOffset":2000000000,"fileSize":1587506176}
 ]}
+
 
 
