@@ -1,37 +1,17 @@
 {
   "DATA": {
-	  
-    "https://vikingf1le.us.to/d/ICzOguM8R1/%5BSuperPSX%5D-Running.Fox_CUSA53361_v1.00_%5B11.00%5D-PS4.pkg": {
-      "title_id": "CUSA30746",
-      "region": "EUR",
-      "name": "Running Fox",
-      "version": "1.00",
-      "release": "09-06-2020",
-      "size": 1110001858,
-      "min_fw": "6.72",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/Running-Fox-PS4-PKG.webp"
-    },	
-    "https://east-us-upload.vikingfile.com/Cjp5AkQYmC/BOMA%20PS4-%20SETEMBRO%202025.pkg": { 
+	  	
+    "https://vikingfile.com/f/sxPgumLLhm": {
       "title_id": "SLPM66374",
       "region": "USA",
-      "name": "BOMBAPACTH SETEMBRO 2025 GD",
+      "name": "BOMBA PACTH SETEMBRO 2025",
       "version": "1.00",
       "release": "09-06-2020",
       "size": 1679163392,
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
     },
-    "https://vikingf1le.us.to/d/0DS0W6YZvx/%5BSPSX%5D-WWE.2K24-CUSA43272-EUR-Game-PS4-CyB1K.pkg": {
-      "title_id": "CUSA43272",
-      "region": "EUR",
-      "name": "WWE 2K24",
-      "version": "1.00",
-      "release": "23-08-2013",
-      "size": 44059163392,
-      "min_fw": "6.72",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
-    },
-    "https://east-us-upload.vikingfile.com/mssOy3tMxp/The%20Wonderful%20101%20Remastered%20CUSA18780%20PS4.pkg": {
+    "https://vikingfile.com/f/mcUDMinefK": {
       "title_id": "CUSA18780",
       "region": "USA",
       "name": "The Wonderful 101 Remastered GAME",
@@ -40,8 +20,8 @@
       "size": 11234967552,
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
-    },		  
-    "https://east-us-upload.vikingfile.com/gNESxejoE3/The%20Wonderful%20101%20Remastered%20UP%20v1.12%20CUSA18780%20PS4.pkg": {
+    },	
+    "https://vikingfile.com/f/sqk2rZ42Ix": {
       "title_id": "CUSA18780",
       "region": "USA",
       "name": "The Wonderful 101 Remastered UP v1.12",
@@ -51,7 +31,7 @@
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
     },	
-    "https://east-us-upload.vikingfile.com/1b8y98Xgze/The%20Wonderful%20101%20Remastered%20CUSA18780%201DLC.pkg": {
+    "https://vikingfile.com/f/CMRY7JtQWM": {
       "title_id": "CUSA18780",
       "region": "USA",
       "name": "The Wonderful 101 Remastered 1 DLC",
@@ -61,7 +41,7 @@
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
     },	
-    "https://east-us-upload.vikingfile.com/aYlmlPPwLa/The%20Wonderful%20101%20Remastered%20CUSA18780%202DLC.pkg": {
+    "https://vikingfile.com/f/HFHhrtrrzH": {
       "title_id": "CUSA18780",
       "region": "USA",
       "name": "The Wonderful 101 Remastered 2 DLC",
@@ -71,7 +51,7 @@
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
     },
-    "https://east-us-upload.vikingfile.com/xWNkU8Gmg6/The%20Wonderful%20101%20Remastered%20CUSA18780%203DLC.pkg": {
+    "https://vikingfile.com/f/QBzal9h6nA": {
       "title_id": "CUSA18780",
       "region": "USA",
       "name": "The Wonderful 101 Remastered 3 DLC",
@@ -81,7 +61,7 @@
       "min_fw": "6.72",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/1971-Project-Helios-PS4-PKG.webp"
     },
-    "https://east-us-upload.vikingfile.com/l0ZgkvF6x5/The%20Wonderful%20101%20Remastered%20CUSA18780%204DLC.pkg": {
+    "https://vikingfile.com/f/cyciKU53JQ": {
       "title_id": "CUSA18780",
       "region": "USA",
       "name": "The Wonderful 101 Remastered 4 DLC",
